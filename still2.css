@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: darkslategrey;
+	font-family: monospace;
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: lightpink;
+	padding: 30px;
+	opacity: 0.8;
+}
+h1, h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: darkblue;
+}
+body {
+	background-image: url("moje slike/5333978.jpg");
+}
+a:link {
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 50px;
+	border:lpx solid #0000000;
+}
+a:hover{
+	background-color: lightsalmon;
+}
+
+img {
+	height: 300px;
+}
